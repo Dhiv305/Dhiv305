@@ -1,4 +1,4 @@
-## Hi, I'm Dhivya
+## Hi, I'm Dhivya ✨
 
 💻 Computer Science student at Sathyabama institute of science and technology</br> 
 🌐 Web Developer | Proficient in Java   
