@@ -5,6 +5,8 @@
 🎯 Passionate about AI, ML, and Cybersecurity</br>
 🌍 Working on AI-powered solutions for healthcare and security </br> 
 📚 Learning React.js,Node.js, MySQL, and AWS </br>
+🔗 Connect with me on [LinkedIn](www.linkedin.com/in/dhivya-r-957303246)  
+
 
 
 # 💻 Tech Stack:
